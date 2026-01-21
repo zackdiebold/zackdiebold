@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td width="70%">
+<div style="display: flex; align-items: flex-start; width: 100%; max-width: 800px; margin: 0 auto;">
+
+<div style="flex: 1; padding-right: 40px;">
 
 # Zack Diebold
 
@@ -14,11 +14,10 @@
 
 *Python • R • C++ • C • JavaScript*
 
-</td>
-<td width="30%" align="right">
+</div>
 
-<img src="https://github.com/zackdiebold/zackdiebold/blob/main/20250730_093134.jpg?raw=true" width="150">
+<div style="flex-shrink: 0;">
+<img src="https://github.com/zackdiebold/zackdiebold/blob/main/20250730_093134.jpg?raw=true" width="150" style="border-radius: 8px;">
+</div>
 
-</td>
-</tr>
-</table>
+</div>
